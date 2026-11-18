@@ -26,7 +26,7 @@ The system was designed around the CARE Principles for Indigenous Data Governanc
 
 ## Project Demo
 
-**Video demonstration:** [Watch the project walkthrough]((https://youtu.be/SvczlxdWi9g))
+**Video demonstration:** [Watch the project walkthrough](https://youtu.be/SvczlxdWi9g)
 
 A walkthrough showcasing the main pages, catalogue navigation and application workflows.
 
