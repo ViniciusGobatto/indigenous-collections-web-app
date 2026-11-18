@@ -10,7 +10,21 @@ The system was designed around the CARE Principles for Indigenous Data Governanc
 
 ## Screenshots
 
-_Add screenshots of the application here._
+![Screenshot 01](screenshots/screenshot-01.png)
+
+![Screenshot 02](screenshots/screenshot-02.png)
+
+![Screenshot 03](screenshots/screenshot-03.png)
+
+![Screenshot 04](screenshots/screenshot-04.png)
+
+![Screenshot 05](screenshots/screenshot-05.png)
+
+![Screenshot 06](screenshots/screenshot-06.png)
+
+![Screenshot 07](screenshots/screenshot-07.png)
+
+![Screenshot 08](screenshots/screenshot-08.png)
 
 Suggested screenshots:
 - Homepage
