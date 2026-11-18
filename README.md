@@ -10,30 +10,16 @@ The system was designed around the CARE Principles for Indigenous Data Governanc
 
 ## Screenshots
 
-![Screenshot 01](screenshots/screenshot-01.png)
-
-![Screenshot 02](screenshots/screenshot-02.png)
-
-![Screenshot 03](screenshots/screenshot-03.png)
-
-![Screenshot 04](screenshots/screenshot-04.png)
-
-![Screenshot 05](screenshots/screenshot-05.png)
-
-![Screenshot 06](screenshots/screenshot-06.png)
-
-![Screenshot 07](screenshots/screenshot-07.png)
-
-![Screenshot 08](screenshots/screenshot-08.png)
-
-Suggested screenshots:
-- Homepage
-- Collection catalogue
-- Item details
-- User dashboards
-- Reviewer dashboard
-- Staff and admin dashboards
-
+<p align="center">
+  <img src="screenshots/screenshot-01.png" width="12%" />
+  <img src="screenshots/screenshot-02.png" width="12%" />
+  <img src="screenshots/screenshot-03.png" width="12%" />
+  <img src="screenshots/screenshot-04.png" width="12%" />
+  <img src="screenshots/screenshot-05.png" width="12%" />
+  <img src="screenshots/screenshot-06.png" width="12%" />
+  <img src="screenshots/screenshot-07.png" width="12%" />
+  <img src="screenshots/screenshot-08.png" width="12%" />
+</p>
 ## Project Demo
 
 **Video demonstration:** [Watch the project walkthrough](ADD_YOUTUBE_LINK_HERE)
