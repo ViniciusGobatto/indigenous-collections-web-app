@@ -11,15 +11,19 @@ The system was designed around the CARE Principles for Indigenous Data Governanc
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/screenshot-01.png" width="12%" />
-  <img src="screenshots/screenshot-02.png" width="12%" />
-  <img src="screenshots/screenshot-03.png" width="12%" />
-  <img src="screenshots/screenshot-04.png" width="12%" />
-  <img src="screenshots/screenshot-05.png" width="12%" />
-  <img src="screenshots/screenshot-06.png" width="12%" />
-  <img src="screenshots/screenshot-07.png" width="12%" />
-  <img src="screenshots/screenshot-08.png" width="12%" />
+  <img src="screenshots/screenshot-01.png" width="23%" />
+  <img src="screenshots/screenshot-02.png" width="23%" />
+  <img src="screenshots/screenshot-03.png" width="23%" />
+  <img src="screenshots/screenshot-04.png" width="23%" />
 </p>
+
+<p align="center">
+  <img src="screenshots/screenshot-05.png" width="23%" />
+  <img src="screenshots/screenshot-06.png" width="23%" />
+  <img src="screenshots/screenshot-07.png" width="23%" />
+  <img src="screenshots/screenshot-08.png" width="23%" />
+</p>
+
 ## Project Demo
 
 **Video demonstration:** [Watch the project walkthrough](ADD_YOUTUBE_LINK_HERE)
